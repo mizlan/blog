@@ -173,5 +173,6 @@ pre.sourceCode {
   margin: 0;
 }
 
+code span.al { font-weight: bold; }
 code span.co { color: #666; font-style: italic; } /* Comment */
 code span.cv { color: #666; font-weight: bold; font-style: italic; } /* CommentVar */
